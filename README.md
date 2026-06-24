@@ -106,7 +106,7 @@ Sentinel reduces reaction time to market anomalies and improves decision clarity
  Real-time alerts (Telegram / Webhooks)
  Backtesting engine
  Multi-asset support
-⚠️ Disclaimer
+⚠️ Disclaimer!
 
 This project is for research and educational purposes only.
 It does not constitute financial advice.
